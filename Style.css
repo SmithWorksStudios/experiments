@@ -1,0 +1,28 @@
+ h1, h2, h3, h4 {
+                color: red;
+                font-size: 30px;
+                margin: 0;
+                background-color: rgb(108, 255, 120);
+            }
+            h1 {
+                font-size: 40px;
+                color: indigo;
+                color: fuchsia;
+                /* color: green*/
+            }
+            .uppercase {
+                text-transform: uppercase;
+                color: crimson;
+            }
+            .improtant {
+                font-size: 20px;
+                color: blue;
+            }
+            #the-one {
+                color: green;
+            }
+            #mr-jones {
+                color: orange;
+            }            
+
+        
